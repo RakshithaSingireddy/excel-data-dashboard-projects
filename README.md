@@ -21,3 +21,8 @@ This project demonstrates how Excel can be used for data cleaning, validation, r
 - Summary insights for business reporting
 
 This project reflects practical data management and reporting tasks similar to real-world business operations.
+
+## Dashboard Preview
+
+![Excel store annual report Dashboard](dashboard.png)
+![Excel sales report Dashboard](dashboard.png)
